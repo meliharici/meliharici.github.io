@@ -6,7 +6,7 @@
 import numpy as np
 ```
 
-I used **The Adventures of Sherlock Holmes by Arthur Conan Doyle** book to train my network. Website: <br>
+**The Adventures of Sherlock Holmes by Arthur Conan Doyle** book used to train my network. Website: <br>
 http://www.gutenberg.org/ebooks/1661  
 
 #### Configurations 
