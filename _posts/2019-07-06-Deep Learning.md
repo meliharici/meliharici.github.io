@@ -2727,7 +2727,7 @@ np.mean(test_mae_scores)
 
 **COMMENT:**
 
-MSLE showed worse performance than MSE if we compare averaged MAE score. When we directly look at the values of loss functions, MSLE (4.83) seems better than MSE (22.9).  **MSLE is usually used when you do not want to penalize huge differences in the predicted and the actual values when both predicted and true values are huge numbers. So, the averaged loss is low in comparison to the MSE.** However, **the performance of MSE** is **much better** and we can understand this by looking averaged MAE error score which is much lower in MSE. 
+MSLE score showed worse performance than MSE if we compare averaged MAE score. When we directly look at the values of loss functions, MSLE (4.83) seems better than MSE (22.9).  **MSLE is usually used when you do not want to penalize huge differences in the predicted and the actual values when both predicted and true values are huge numbers. So, the averaged loss is low in comparison to the MSE.** However, **the performance of MSE** is **much better** and we can understand this by looking averaged MAE error score which is much lower in MSE. 
 
  
 
