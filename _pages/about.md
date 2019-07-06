@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Mehmet Melih Arıcı"
-excerpt: "About me"
+excerpt: "Hakkımda"
 author_profile: true
 redirect_from: 
   - /about/
