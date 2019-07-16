@@ -1,5 +1,15 @@
+---
+title: 'Text Generation using RNNs'
+date: 2019-07-06
+permalink: /posts/2019/07/blog-post-1/
+tags:
+  - Deep Learning
+  - Artificial Intellegence
+  - Recurrent Neural Networks
+---
 
- 
+# Object Oriented Text Generation Using RNN
+ In this post, I will be talking about an object oriented Python implementation of Recurrent Neural Networks (RNNs) on text generation field. RNNs are one of the popular neural network implementations in Deep Learning field. Specifically on time series data, RNNs are very powerful because of their memory-like structure that enables them to use past information for future decisions. Text generation is one of the popular implementations of RNNs and has extensively been studied in many tutorials so far. I tried to implement RNNs in an object oriented fashion in this post. Let's start!
 
 
 ```python
