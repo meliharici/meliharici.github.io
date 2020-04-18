@@ -13,10 +13,10 @@ Hi. My name is Melih. I graduated from Computer Science deparment of [Ozyegin Un
 
 News
 ======
-- Submitted a paper to [UYMS-2019](https://uyms19.iyte.edu.tr/) Turkish National Software Engineering Symposium.
+- Accepted a paper at [UYMS-2019](https://uyms19.iyte.edu.tr/) Turkish National Software Engineering Symposium.
 
 Contact
 -------
-E-mail:  mehmet.melih.arici@gmail.com
+E-mail:  mehmet.arici@boun.edu.tr
 
 
